@@ -14,7 +14,6 @@ body {
   align-items: center;
   background: url(./images/bg.png) center;
   background-size: cover;
-  height: 100vh;
 }
 
 main {
@@ -74,4 +73,8 @@ main {
 
 /* Responsividade */
 
-@
+@media (min-height: 668px) {
+  body{
+    height: 100vh;
+  }
+}
