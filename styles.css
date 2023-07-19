@@ -14,6 +14,7 @@ body {
   align-items: center;
   background: url(./images/bg.png) center;
   background-size: cover;
+  height: 100vh;
 }
 
 main {
@@ -21,6 +22,7 @@ main {
   height: 667px;
   background: url(./images/convite-vazio3.jpg) center no-repeat;
   background-size: cover;
+  border-radius: 10px;
 }
 
 .header {
@@ -69,3 +71,7 @@ main {
   color: #ffa;
   font-size: 1.3rem;
 }
+
+/* Responsividade */
+
+@
