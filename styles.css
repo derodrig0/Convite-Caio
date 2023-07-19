@@ -19,7 +19,7 @@ body {
 main {
   width: 375px;
   height: 667px;
-  background: url(./images/convite-vazio3.jpg) center no-repeat;
+  background: url(./images/convite-vazio.png) center no-repeat;
   background-size: cover;
   border-radius: 10px;
 }
